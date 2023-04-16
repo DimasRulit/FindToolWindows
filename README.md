@@ -1,5 +1,15 @@
 # FindToolWindows
 
+
+
+![image](https://user-images.githubusercontent.com/40802556/232326045-d0365a4e-fcc1-4d6c-aa6c-391b12e2d55f.png)
+![image](https://user-images.githubusercontent.com/40802556/232326076-8b18517f-d250-4c6d-8b91-dac52832f572.png)
+
+
+
+
+
+
 A tool to search for files throughout the windows system.
 
 The program uses an indexed database in which the data corresponds to every path and file in Windows.
@@ -30,4 +40,14 @@ https://github.com/TomSchimansky/CustomTkinter
 4. run main.py
 5. Enjoy the speed of your search!
 
+# LMB - open found file. RMB - open file path
+
+
+
 # You can also download compiled files. You can run them without installing libraries or python.
+
+
+# Please offer your ideas and how to implement more useful features.
+
+
+At this stage, there are problems with the search.

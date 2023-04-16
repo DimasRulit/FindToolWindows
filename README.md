@@ -9,6 +9,8 @@ Right now the database has only a name and a path. Later I added indexes to find
 This tool will be constantly in demand. Perhaps someone will contribute.
 
 
-Currently using the CustomTkinter library
+Currently using the CustomTkinter library and others:
+
+https://github.com/VasigaranAndAngel/PyAnimator
 
 https://github.com/TomSchimansky/CustomTkinter

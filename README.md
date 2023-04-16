@@ -1,14 +1,14 @@
 # FindToolWindows
 
-Инструмент для поиска файлов на всей системе windows. 
+A tool to search for files throughout the windows system.
 
-Программа использует индексированную базу данных, в которой данные соответсвуют каждому пути и файлу в windows.
+The program uses an indexed database in which the data corresponds to every path and file in Windows.
 
-Сейчас база данных имеет имеет только имя и путь. Позже я добавлю индексы чтобы поиск происходил максимально быстрее. 
+Right now the database has only a name and a path. Later I added indexes to find the fastest possible detection.
 
-Данный инструмент будет постоянно обновляться. Возможно кто-то принесет свой вклад.
+This tool will be constantly in demand. Perhaps someone will contribute.
 
 
-В данном инструменте используется библиотека CustomTkinter
+Currently using the CustomTkinter library
 
 https://github.com/TomSchimansky/CustomTkinter

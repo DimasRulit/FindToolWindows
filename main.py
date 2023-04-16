@@ -26,7 +26,7 @@ def on_right_click(text):
 def create_widgets():
     frame_1 = customtkinter.CTkFrame(master=app)
     frame_1.pack(pady=5, padx=5, fill="both", expand=True)
-    search_entry = customtkinter.CTkEntry(master=frame_1, placeholder_text="Хочу порно....",width=780,height=100, font=('Arial',40))
+    search_entry = customtkinter.CTkEntry(master=frame_1, placeholder_text="Search...",width=780,height=100, font=('Arial',40))
     search_entry.pack(pady=10, padx=10)
     
     search_results_text = tk.Text(app1, height=20, width=100)

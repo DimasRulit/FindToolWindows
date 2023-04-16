@@ -10,13 +10,13 @@
 
 
 
-A tool to search for files throughout the windows system.
-
 The program uses an indexed database in which the data corresponds to every path and file in Windows.
 
-Right now the database has only a name and a path. Later I added indexes to find the fastest possible detection.
+Right now the database has only a name and a path. Later I added indexes to find the fastest possible discovery.
 
-This tool will be constantly in demand. Perhaps someone will contribute.
+This tool will be constantly updated. Perhaps someone can help with this.
+
+Currently using the CustomTkinter library and others:.
 
 
 Currently using the CustomTkinter library and others:

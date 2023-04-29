@@ -37,6 +37,7 @@ https://github.com/TomSchimansky/CustomTkinter
 1. Run index.py
 2. Wait for indexing of all files on your system
 3. File_index.db should appear next to index.py
+4. place .db file near main.py
 4. run main.py
 5. Enjoy the speed of your search!
 
@@ -45,6 +46,14 @@ https://github.com/TomSchimansky/CustomTkinter
 
 
 # You can also download compiled files. You can run them without installing libraries or python.
+
+# HOW TO USE COMPILED FILES
+
+1. Extract files from .zip file
+2. place index.exe near main.exe in extracted files
+3. run index.exe and wait 
+4. run main.exe
+5. Enjoy!
 
 
 # Please offer your ideas and how to implement more useful features.
